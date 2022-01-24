@@ -1,8 +1,9 @@
+<!-- sorry.php for Molten Delights Pizzeria Version 1 -->
 <?php 
   chdir("../");
   include("./common/document_head.html"); 
 ?>
-<body class="w3-auto">
+<body class="body w3-auto">
   <header class="w3-container">
     <div class="w3-pannel w3-border w3-border-black w3-sand">
       <?php include("./common/banner.html") ?>
