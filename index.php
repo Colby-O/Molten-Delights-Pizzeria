@@ -1,6 +1,6 @@
 <!-- index.php for Molten Delights Pizzeria Version 1 -->
 <?php include("./common/document_head.html"); ?>
-<body class="body w3-auto">
+<body class="body w3-auto" onload="carousel()">
   <header class="w3-container">
     <div class="w3-pannel w3-border w3-border-black w3-sand">
       <?php include("common/banner.html") ?>
@@ -28,16 +28,7 @@
         </p>
       </article>
 
-      <div class="w3-half w3-padding w3-center">
-        <figure class="w3-card-4 w3-section">
-          <img src="images/products/pepperoni-pizza.jpg" alt="Picture of our famous pepperoni pizza" class="w3-image" id="placeholder-image">
-          <figcaption class="w3-container w3-orange">
-            <h5>
-              Our world famous pepperoni pizza
-            </h5>
-          </figcaption>
-        </figure>
-      </div>
+      <?php include("resources/images_and_labels.html") ?>
     </div>
   </main>
 
