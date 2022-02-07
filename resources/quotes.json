@@ -1,0 +1,248 @@
+[
+    {
+        "_id": 1,
+        "author": "Kevin James",
+        "text": "There’s no better feeling in the world than a warm pizza box in your lap.",
+        "adjective": "delightful"
+    },
+    {
+        "_id": 2,
+        "author": "Unknown",
+        "text": "You can't make everyone happy. You're not pizza.",
+        "adjective": "cheesy"
+    },
+        {
+        "_id": 3,
+        "author": "Dora J. Arod",
+        "text": "My love is pizza shaped. Won’t you have a slice? It’s circular, so there’s enough to go around.",
+        "adjective": "amazing"
+    },
+        {
+        "_id": 4,
+        "author": "Unknown",
+        "text": "Pizza is not a 'trend' it's a way of life.",
+        "adjective": "fresh"
+    },
+        {
+        "_id": 5,
+        "author": "Bill Murray",
+        "text": "Unless you are a pizza, the answer is yes, I can live without you.",
+        "adjective": "takeaway"
+    },
+        {
+        "_id": 6,
+        "author": "Unknown",
+        "text": "I want someone to look at me the same way I look at pizza.",
+        "adjective": "authentic"
+    },
+        {
+        "_id": 7,
+        "author": "Madeline Oles",
+        "text": "Pizza is like the entire food pyramid!",
+        "adjective": "yummy"
+    },
+        {
+        "_id": 8,
+        "author": "Bill Murray",
+        "text": "Every pizza is a personal pizza if you try hard and believe in yourself.",
+        "adjective": "fantastic"
+    },
+        {
+        "_id": 9,
+        "author": "Unknown",
+        "text": "Do good. Be nice. Order pizza. Repeat.",
+        "adjective": "colourful"
+    },
+        {
+        "_id": 10,
+        "author": "Unknown",
+        "text": "You can't buy happiness. But you can buy pizza, and that's kind of the same thing.",
+        "adjective": "finest"
+    },
+        {
+        "_id": 11,
+        "author": "Mike Birbiglia",
+        "text": "I love pizza. I want to marry it but it would just be to eat her family at the wedding.",
+        "adjective": "frozen"
+    },
+        {
+        "_id": 12,
+        "author": "Gwen Stefani",
+        "text": "You know what? Part of me just wants to eat pizza and go to sleep.",
+        "adjective": "greasy"
+    },
+        {
+        "_id": 13,
+        "author": "Unknown",
+        "text": "Keep your friends close and your pizza closer.",
+        "adjective": "wholesome"
+    },
+        {
+        "_id": 14,
+        "author": "Andrew W.K.",
+        "text": "Anyone who says that money cannot buy happiness has clearly never spent their money on pizza.",
+        "adjective": "famous"
+    },
+        {
+        "_id": 15,
+        "author": "Unknown",
+        "text": "Life is not about finding yourself. It's about finding pizza.",
+        "adjective": "deluxe"
+    },
+        {
+        "_id": 16,
+        "author": "Amy Neftzger",
+        "text": "Those pizzas I ate were for medicinal purposes.",
+        "adjective": "jumbo"
+    },
+        {
+        "_id": 17,
+        "author": "Unknown",
+        "text": "I can't turn water into wine, but I can turn pizza into breakfast.",
+        "adjective": "cheeky"
+    },
+        {
+        "_id": 18,
+        "author": "Jet Paacal",
+        "text": "A pizza slice a day keeps sadness away.",
+        "adjective": "slippery"
+    },
+        {
+        "_id": 19,
+        "author": "Unknown",
+        "text": "Beauty comes in all shapes and sizes. Small, large, circle, square, thin crust, thick crust, stuffed crust, extra toppings.",
+        "adjective": "original"
+    },
+        {
+        "_id": 20,
+        "author": "Sarah Burgess",
+        "text": "I’d rather have leftover pizza than leftover feelings.",
+        "adjective": "special"
+    },
+        {
+        "_id": 21,
+        "author": "Unknown",
+        "text": "No matter what happens, pizza will always be there for you, thick and thin, in the crust we trust.",
+        "adjective": "impressive"
+    },
+        {
+        "_id": 22,
+        "author": "Aubrey Plaza",
+        "text": "Time is money, money is power, power is pizza, and pizza is knowledge, let’s go!",
+        "adjective": "delightful"
+    },
+        {
+        "_id": 23,
+        "author": "Unknown",
+        "text": "Keep calm and order pizza.",
+        "adjective": "gooey"
+    },
+        {
+        "_id": 24,
+        "author": "Jason Barnett",
+        "text": "I want to live in a world where the need for pizza belittles that of war.",
+        "adjective": "crispy"
+    },
+        {
+        "_id": 25,
+        "author": "Jandy Nelson",
+        "text": "I love pizza, meaning: even when I’m in the middle of eating pizza, I wish I were eating pizza.",
+        "adjective": "cheesy"
+    },
+        {
+        "_id": 26,
+        "author": "Tiger Woods",
+        "text": "And I don’t cook, either. Not as long as they still deliver pizza.",
+        "adjective": "salty"
+    },
+        {
+        "_id": 27,
+        "author": "Henry Rollins",
+        "text": "Pizza makes me think anything is possible.",
+        "adjective": "spicy"
+    },
+        {
+        "_id": 28,
+        "author": "G.A. McKevett",
+        "text": "There’s very little in my world that a foot massage and a thin-crust, everything-on-it pizza won’t set right.",
+        "adjective": "delightful"
+    },
+        {
+        "_id": 29,
+        "author": "Yogi Berra",
+        "text": "You better cut the pizza in four pieces because I’m not hungry enough to eat six.",
+        "adjective": "fabulous"
+    },
+        {
+        "_id": 30,
+        "author": "Scott Gimple",
+        "text": "You can do irrefutably impossible things with the right amount of planning and support from intelligent and hardworking people and pizza.",
+        "adjective": "chessy"
+    },
+        {
+        "_id": 31,
+        "author": "America Ferrera",
+        "text": "I just want to be in my sweats, walk my dog, watch tv and eat pizza.",
+        "adjective": "fried"
+    },
+        {
+        "_id": 32,
+        "author": "Charles Pierce",
+        "text": "The perfect lover is one who turns into a pizza at 4:00 a.m.",
+        "adjective": "terrific"
+    },
+        {
+        "_id": 33,
+        "author": "Oliver Markus Malloy",
+        "text": "Sex is like pizza: if you’re going to use bbq sauce, you better know what the fuck you’re doing.",
+        "adjective": "cheesy"
+    },
+        {
+        "_id": 34,
+        "author": "Jason Barnett",
+        "text": "I want to live in a world where the need for pizza belittles that of war.",
+        "adjective": "finest"
+    },
+        {
+        "_id": 35,
+        "author": "Jayden Hunter",
+        "text": "Heaven would be a comfortable chair, a library, diet coke, and an occasional cheese pizza. Sex once in a while. No talking.",
+        "adjective": "fresh"
+    },
+        {
+        "_id": 36,
+        "author": "Daria",
+        "text": "There is no moment in life that can’t be improved with pizza.",
+        "adjective": "delightful"
+    },
+        {
+        "_id": 37,
+        "author": "Unknown",
+        "text": "A pizza’s worth a thousand words.",
+        "adjective": "spicy"
+    },
+        {
+        "_id": 38,
+        "author": "Pizza Hut",
+        "text": "Gather ’round the good stuff!",
+        "adjective": "greasy"
+    },
+        {
+        "_id": 39,
+        "author": "Tess Holliday",
+        "text": "If you want to eat pizza, have the pizza.",
+        "adjective": "cheeky"
+    },
+        {
+        "_id": 40,
+        "author": "Lara Stone",
+        "text": "I think of dieting, then I eat pizza.",
+        "adjective": "delightful"
+    },
+        {
+        "_id": 41,
+        "author": "Jennifer Lawrence",
+        "text": "I want pizza with my face on it.",
+        "adjective": "chessy"
+    }
+]
