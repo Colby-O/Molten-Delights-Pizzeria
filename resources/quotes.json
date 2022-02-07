@@ -8,7 +8,7 @@
     {
         "_id": 2,
         "author": "Unknown",
-        "text": "You can't make everyone happy. You're not pizza",
+        "text": "You can't make everyone happy. You're not pizza.",
         "adjective": "cheesy"
     },
         {
@@ -20,7 +20,7 @@
         {
         "_id": 4,
         "author": "Unknown",
-        "text": "Pizza is not a 'trend' it's a way of life",
+        "text": "Pizza is not a 'trend' it's a way of life.",
         "adjective": "fresh"
     },
         {
@@ -236,7 +236,7 @@
         {
         "_id": 40,
         "author": "Lara Stone",
-        "text": "I think of dieting, then I eat pizza",
+        "text": "I think of dieting, then I eat pizza.",
         "adjective": "delightful"
     },
         {

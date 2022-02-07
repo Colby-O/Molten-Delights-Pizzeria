@@ -1,9 +1,9 @@
-<!-- index.php for Molten Delights Pizzeria Version 1 -->
+<!-- index.php for Molten Delights Pizzeria Version 2 -->
 <?php include("./common/document_head.html"); ?>
 <body class="body w3-auto" onload="carousel()">
   <header class="w3-container">
     <div class="w3-pannel w3-border w3-border-black w3-sand">
-      <?php include("common/banner.html") ?>
+      <?php include("common/banner.php") ?>
       <?php include("common/menus.html") ?>
     </div>
   </header>

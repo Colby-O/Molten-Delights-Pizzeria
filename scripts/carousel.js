@@ -1,8 +1,14 @@
 /* carousel.js */
 
+// Time period between slides
 const SLIDE_CHNAGE_TIME = 3000;
+
 var index = 0;
 
+/*
+ * Change the image on the slide to the next product.
+ * The function calls it's self agian after a timeout.
+ */
 function carousel() {
     let figures = document.querySelectorAll(".myFigures");
 
