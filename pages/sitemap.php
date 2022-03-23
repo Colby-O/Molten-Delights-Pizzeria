@@ -17,7 +17,7 @@
         <ul class="w3-ul">
           <li>
             <h4 class="w3-wide">
-              <a href="./index.php">Home</a>
+              <a href="./my_business.php">Home</a>
             </h4>
           </li>
         </ul>
@@ -32,15 +32,15 @@
           </li>
 
           <li>
-            <a title ="Not yet active" href="./pages/sorry.php">Product Catalog</a>
+            <a href="./pages/catalog.php">Product Catalog</a>
           </li>
 
           <li>
-          <a title ="Not yet active" href="./pages/sorry.php">Register</a>
+          <a href="./pages/formRegistration.php">Register</a>
           </li>
 
           <li>
-           <a title ="Not yet active" href="./pages/sorry.php">Login</a>
+           <a href="./pages/formLogin.php">Login</a>
          </li>
 
           <li>
@@ -52,7 +52,7 @@
           </li>
 
           <li>
-            <a title ="Not yet active" href="./pages/sorry.php">Logout</a>
+            <a href="./pages/logout.php">Logout</a>
           </li>
         </ul>
       </div>
@@ -94,7 +94,7 @@
           </li>
 
           <li>
-            <a title="Not yet active" href="./pages/sorry.php">Tell Us What You Think</a>
+            <a href="./pages/formFeedback.php">Tell Us What You Think</a>
           </li>
         </ul>
 

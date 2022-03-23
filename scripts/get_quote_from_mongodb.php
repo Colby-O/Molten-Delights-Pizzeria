@@ -1,10 +1,12 @@
-<!-- get_quote.php -->
-
 <?php 
-    function getQuote() {
-        $quotesString = file_get_contents("./resources/quotes.json");
-        $quotes = json_decode($quotesString, true);
-        $quote = $quotes[rand() % count($quotes)];
+//get_quote_from_mongodb.php
+function getQuote() {
+	require('/var/shared/vendor/autoload.php');
+	require($_SERVER['CONTEXT_DOCUMENT_ROOT'] . '/../../../htpasswd/mongodb.inc');
+	$client = new MongoDB\Client("mongodb://$username:$password@localhost/u26");
+	$collection = $client->u26->quotes_mongo;
+	$quote_number = rand(1, $collection->count());
+	$quote = $collection->findone( [ '_id' => $quote_number ] );
         return "Today's " . $quote["adjective"] . " quote, from " . $quote["author"] . ": " . $quote["text"];
     }
 
