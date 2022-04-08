@@ -28,8 +28,18 @@
             $_SESSION['first_name'] = $row['first_name'];
             $_SESSION['middle_initial'] = $row['middle_initial'];
 	    $_SESSION['last_name'] = $row['last_name'];
-	    $previousPage = getenv("HTTP_REFERER");
-	    header("Location: " . $previousPage);
+	    
+	    $productID = $_SESSION["purchasePending"];
+	    if ($productID != "") {
+                unset($_SESSION["purchasePending"]);
+		$destination = "../pages/shoppingCart.php?productID=$productID";
+		$goto = "Location: $destination";
+	    } else {
+                $destination = getenv("HTTP_REFERER");
+                $goto = "Location: $destination";
+	    }
+	    header($goto);
+
 	}
 	else {
             header("Location: ../pages/formLogin.php?retrying=true");

@@ -23,28 +23,28 @@
         <ul>
           <li>
             To browse our exciting menu 
-            <a href="./pages/catalog.php">click here</a>.
+            <a title="Not yet active" href="./pages/sorry.php">click here</a>.
           </li>
 
           <li>
             ready to purchase and already have a username and password?
             <br> 
             To log in to our e-store and begin ordering 
-            <a href="./pages/formLogin.php">click here</a>. 
+            <a title="Not yet active" href="./pages/sorry.php">click here</a>. 
           </li>
 
           <li>
             Need to register for our e-store so you can make purchases?
             <br>
             To register (you only need to do it once)
-            <a href="./pages/formRegistration.php">click here</a>.
+            <a title="Not yet active" href="./pages/sorry.php">click here</a>.
           </li>
 
           <li>
             Trying to log in as a different user? 
             <br>
             You must first
-            <a href="./pages/logout.php">click here to log out</a>.
+            <a title="Not yet active" href="./pages/sorry.php">click here to log out</a>.
           </li>
         </ul>
       </article>

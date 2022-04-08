@@ -1,0 +1,54 @@
+/*my_css.css*/
+.quote {
+  font-size: 0.85em;
+}
+
+#logo {
+  width: 100%;
+  height: 350px;
+}
+
+.my-image {
+  width: 100%;
+  height: 200px;
+}
+
+.myFigures {
+  display: none;
+}
+
+.body {
+  max-width: 950px;
+}
+
+table.item { 
+  border-spacing: 2px; 
+}
+
+table.item th, table.item td { 
+  padding: 4px; 
+}
+
+table.item { 
+  margin-bottom: 5px; 
+}
+
+table.item th { 
+  border: 2px solid black; 
+}
+
+table.item td { 
+  border: 2px solid black; 
+}
+
+td.right { 
+  text-align: right; 
+}
+
+td.left { 
+  text-align: left; 
+}
+
+td.center { 
+  text-align: center; 
+}

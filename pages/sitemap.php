@@ -32,15 +32,15 @@
           </li>
 
           <li>
-            <a href="./pages/catalog.php">Product Catalog</a>
+            <a title ="Not yet active" href="./pages/sorry.php">Product Catalog</a>
           </li>
 
           <li>
-          <a href="./pages/formRegistration.php">Register</a>
+          <a title ="Not yet active" href="./pages/sorry.php">Register</a>
           </li>
 
           <li>
-           <a href="./pages/formLogin.php">Login</a>
+           <a title ="Not yet active" href="./pages/sorry.php">Login</a>
          </li>
 
           <li>
@@ -52,7 +52,7 @@
           </li>
 
           <li>
-            <a href="./pages/logout.php">Logout</a>
+            <a title ="Not yet active" href="./pages/sorry.php">Logout</a>
           </li>
         </ul>
       </div>

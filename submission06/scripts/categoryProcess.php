@@ -34,7 +34,7 @@ for ($i = 1; $i < $numProducts + 1; $i++) {
 	<td class='left'>$productPrice</td>
         <td class='center'>$productQuantity</td>
         <td class='center'>
-	  <a class='w3-button w3-orange w3-hover-deep-orange w3-round w3-small' title='Not yet active' href='pages/sorry.php'> 
+	  <a class='w3-button w3-orange w3-hover-deep-orange w3-round w3-small' title='Not yet active' href='pages/shoppingCart.php?productID=$product[product_id]'> 
             Add to cart
           </a>
 	</td>
