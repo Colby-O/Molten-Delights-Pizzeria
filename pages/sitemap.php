@@ -32,27 +32,27 @@
           </li>
 
           <li>
-            <a title ="Not yet active" href="./pages/sorry.php">Product Catalog</a>
+            <a href="./pages/catalog.php">Product Catalog</a>
           </li>
 
           <li>
-          <a title ="Not yet active" href="./pages/sorry.php">Register</a>
+          <a href="./pages/formRegistration.php">Register</a>
           </li>
 
           <li>
-           <a title ="Not yet active" href="./pages/sorry.php">Login</a>
+           <a href="./pages/formLogin.php">Login</a>
          </li>
 
           <li>
-            <a title ="Not yet active" href="./pages/sorry.php">Shopping Cart</a>
+            <a href="./pages/shoppingCart.php?productID=view">Shopping Cart</a>
           </li>
 
           <li>
-            <a title ="Not yet active" href="./pages/sorry.php">Checkout</a>
+            <a href="./pages/checkout.php">Checkout</a>
           </li>
 
           <li>
-            <a title ="Not yet active" href="./pages/sorry.php">Logout</a>
+            <a href="./pages/logout.php">Logout</a>
           </li>
         </ul>
       </div>
@@ -73,10 +73,6 @@
 
           <li>
             <a href="./pages/rewards_faq.php">FAQ's</a>
-          </li>
-
-          <li>
-            <a title="Not yet active" href="./pages/sorry.php">Your Rewards</a>
           </li>
         </ul>
 

@@ -1,7 +1,5 @@
-My site is complete and functions according to the requirements.
- 
-The Your Rewards Page under the Rewards tab is still inactive as I can't do what I 
-want to use it for until the login system is up and running.
+My site is complete and functions according to the requirements. The sql
+scripts to generate the tables are in scripts/mysql.
 
 Colby O'Keefe
 A00428974
